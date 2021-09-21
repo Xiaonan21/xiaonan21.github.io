@@ -1,5 +1,4 @@
 ---
-
 abstract: Policy scientists have long examined how policy innovation has emerged and diffused by focusing on the interaction between agents and policy programs. In contrast, this article focuses on how uncertainty in policy environments has affected the fate of policy innovation in an authoritarian state. Using original data from China’s official newspaper, the People’s Daily,it is found that the central government’s decision to promote sensitive policy experiments is a function of the perceived risks in the policy environment. The U-shaped relationship between the promotion of sensitive policy innovation and inflation reflects the wire-walking behavior of China’s central government. The central authority in China tends to promote fewer sensitive political experiments when inflation increases and resumes promoting experiments when the inflation rate passes a certain tipping point. It is also found that the central authority intentionally regulates the promotion of political experiments during important political events.
 
 authors:
