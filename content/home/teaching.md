@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: blank
 
 # This file represents a page section.
 headless: true
@@ -12,21 +12,25 @@ weight: 90
 title: Teaching
 subtitle: 
 
-content:
-  # Page type to display. E.g. post, talk, publication...
-  page_type: courses
-  # Choose how much pages you would like to display (0 = all pages)
-  count: 5
-  # Choose how many pages you would like to offset by
-  offset: 0
-  # Page order: descending (desc) or ascending (asc) date.
-  order: desc
 
-design:
-  # Choose a view for the listings:
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   4 = Citation (publication only)
-  view: 2
 ---
+
+
+**Quantative Methods**
+
+*Graduate Level*
+
++ [Causal Inference Using Panel Data](https://github.com/gsa-gvpt/gvpt-methods/tree/master/paneldata) (with Kee Hyun Park), Methods Workshop for the Department of Government and Politics, University of Maryland, Spring 2021
+
++ [Modeling Data: Theoretical Principles and Tidyverse Tools](https://github.com/gsa-gvpt/gvpt-methods/tree/master/modeling), Methods Workshop for the Department of Government and Politics, University of Maryland, Fall 2020
+
++ Causal Inference in Time-Series Cross-Sectional Data, Methods Workshop for the Department of Government and
+Politics, University of Maryland, Spring 2019
+
+*Undergraduate Level*
+
++ GVPT201 Scope and Methods for Political Science, Teaching Assistant for Undergraduates, University of Maryland, Fall 2017
+
+**International Relations**
+
++ GVPT289J Uncertain Partners: The United States and China in a Changing World, Teaching Assistant for Undergraduates, University of Maryland, Spring 2017 and Spring 2018

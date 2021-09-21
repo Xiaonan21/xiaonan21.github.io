@@ -30,4 +30,4 @@ I am a Ph.D. candidate in the Department of Government and Politics at the Unive
 
 My contact information: xwang21 [at] umd [dot] edu
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Xiaonan.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.
