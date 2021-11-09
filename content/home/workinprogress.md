@@ -15,7 +15,7 @@ subtitle:
 
 ---
 
-+ The Dilemma of Appointing Insiders: Evidence from the Appointment of China’s Provincial Agency Leaders
+<li> The Strategy of Compartmentalization in Bureaucratic Appointments: Evidence from China’s Provincial Agency Leaders</li>
 
-+ The Political Influence of FDI in Africa from China and the United States (with Margaret Pearson and John McCauley)
+<li> The Political Influence of FDI in Africa from China and the United States (with Margaret Pearson and John McCauley)</li>
 

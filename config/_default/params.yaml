@@ -5,8 +5,8 @@
 
 # Appearance
 
-theme: Earth
-day_night: true
+theme: 'minimal'
+day_night: false
 font: 'Rose'
 font_size: m
 
@@ -24,7 +24,7 @@ twitter: ''
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: true
