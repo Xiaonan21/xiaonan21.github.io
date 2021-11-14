@@ -12,11 +12,11 @@ date: "2021-09-01T00:00:00Z"
 doi: ""
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 projects: []
-publication: "*Journal of Politics* (Conditionally Accepted)"
+publication: "Forthcoming in *Journal of Politics*"
 publication_short: ""
 publication_types:
 - "2"

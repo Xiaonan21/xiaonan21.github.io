@@ -7,7 +7,10 @@ authors:
 - Shuoyan Li
 - admin
 date: "2020-02-19T00:00:00Z"
-doi: "https://doi.org/10.1007/s11266-020-00204-x"
+doi: 
+links:
+- name: URL
+  url: "https://doi.org/10.1007/s11266-020-00204-x"
 featured: false
 projects: []
 publication: '*VOLUNTAS: International Journal of Voluntary and Nonprofit Organizations*'

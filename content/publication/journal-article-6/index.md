@@ -6,22 +6,22 @@ authors:
 - Yan Wang
 date: "2021-01-01T00:00:00Z"
 doi: ""
-featured: true
+featured: 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 
   focal_point: ""
   preview_only: false
 projects: []
-publication: "Revised and Resubmitted to the *Journal of Chinese Political Science*"
+publication: "Accepted at *Journal of Chinese Political Science*"
 publication_short:
 publication_types:
-- "3"
+- "2"
 publishDate: "2021-01-01T00:00:00Z"
 
 summary:
 
 title: 'Too Cynical: Why Stock Market in China Dismissed Anti-corruption Signals'
-subtitle: Revised and Resubmitted to the *Journal of Chinese Political Science*
+subtitle: 
 url_code: ''
 url_dataset: ''
 url_pdf:

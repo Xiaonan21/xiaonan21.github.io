@@ -5,7 +5,10 @@ authors:
 - Ciqi Mei
 - admin
 date: "2019-12-24T00:00:00Z"
-doi: "https://doi.org/10.1080/13876988.2019.1700672"
+doi: ""
+links:
+- name: URL
+  url: https://doi.org/10.1080/13876988.2019.1700672
 featured: false
 projects: []
 publication: '*Journal of Comparative Policy Analysis: Research and Practice*'

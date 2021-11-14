@@ -6,10 +6,13 @@ authors:
 - admin
 
 date: "2019-04-07T00:00:00Z"
-doi: "https://doi.org/10.1007/s11266-020-00204-x"
+doi: 
+links:
+- name: URL
+  url: "https://link.springer.com/article/10.1007/s11366-017-9513-8"
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 projects: []

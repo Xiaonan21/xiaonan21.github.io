@@ -9,7 +9,7 @@ date: "2021-07-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'need replacement'
   focal_point: ""
   preview_only: false
 
@@ -22,12 +22,12 @@ publishDate: "2021-07-01T00:00:00Z"
 
 summary:
 
-title: 'Play It Safe and Appoint Outsiders: The Unintended Consequence of Anti-corruption Campaigns on Bureaucratic Appointment (Job Market Paper)'
-subtitle: Under Review
+title: 'Play It Safe and Appoint Outsiders: The Unintended Consequence of Anti-corruption Campaigns on Bureaucratic Appointment'
+subtitle: 
 
 url_code: ''
 url_dataset: ''
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf:
 
 ---
 

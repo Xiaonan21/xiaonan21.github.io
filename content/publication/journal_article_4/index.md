@@ -7,10 +7,13 @@ authors:
 - Lu Liao
 - Zhilin Liu
 date: "2015-09-01T00:00:00Z"
-doi: "http://en.cnki.com.cn/Article_en/CJFDTOTAL-GGXZ201503002.htm"
+doi: ""
+links:
+- name: URL
+  url: http://en.cnki.com.cn/Article_en/CJFDTOTAL-GGXZ201503002.htm
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 projects: []

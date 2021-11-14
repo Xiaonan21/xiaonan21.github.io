@@ -34,6 +34,6 @@ I am a Ph.D. candidate in the Department of Government and Politics at the Unive
 
 My dissertation studies the politics of appointing insiders and outsiders, using an originally complied dataset of China’s provincial agency leaders from 1978 to 2020. My research on international political economy of China focuses on China’s outward FDI.
 
-My contact information: xwang21 [at] umd [dot] edu
+My contact information: xwang21@umd.edu
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Xiaonan.pdf" "newtab" >}}curriculum vitae{{< /staticref >}}.

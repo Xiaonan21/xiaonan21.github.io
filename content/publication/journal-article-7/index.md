@@ -7,22 +7,22 @@ authors:
 - admin
 date: "2021-05-01T00:00:00Z"
 doi: ""
-featured: true
+featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "some description"
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Revised and Resubmitted to *World Development*'
+publication: 'Forthcoming in *World Development*'
 publication_short:
 publication_types:
-- "3"
+- "2"
 publishDate: "2021-05-01T00:00:00Z"
 slides: example
 summary:
 
 title: 'Does Chinese Investment in Africa Inspire Support for a China Model of Development?'
-subtitle: Revised and Resubmitted to World Development
+subtitle: 
 
 url_code: ''
 url_dataset: ''

@@ -7309,16 +7309,16 @@ h6 {
   hyphens: manual; }
 
 h1 {
-  font-size: 1.5rem; }
+  font-size: 1.2rem; }
 
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem; }
+  font-size: 1.2rem; }
 
 h3 {
   font-weight: 700;
   margin-top: 1.5rem;
-  font-size: 1.5rem; }
+  font-size: 1rem; }
 
 h4,
 h5,
@@ -9035,8 +9035,8 @@ html[dir='rtl'] body {
   position: relative; }
 
 .avatar {
-  width: 240px;
-  height: 320px;
+  width: 192px;
+  height: 256px;
   margin: 0 auto;
   object-fit: cover; }
 

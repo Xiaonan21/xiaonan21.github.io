@@ -10,7 +10,7 @@ date: "2021-06-01T00:00:00Z"
 doi: ""
 featured: true
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -24,11 +24,11 @@ publishDate: "2021-07-01T00:00:00Z"
 summary:
 
 title: "Information and the Dilemma of Appointing Insiders: Evidence from the Appointment of China's Provincial Agency Leaders"
-subtitle: shadoumeiyou
+subtitle: 
 
 url_code: ''
 url_dataset: ''
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf:
 
 ---
 
