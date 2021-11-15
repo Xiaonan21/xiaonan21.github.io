@@ -22,7 +22,7 @@ slides:
 summary:
 tags:
 
-title: 'Seeking Credibility from Uncertainty: ow Formal Cooptation Institution Unleashes Outspoken NGOs.'
+title: 'Seeking Credibility from Uncertainty: How Formal Cooptation Institution Unleashes Outspoken NGOs.'
 url_code: ""
 url_dataset: ""
 url_pdf: ""
