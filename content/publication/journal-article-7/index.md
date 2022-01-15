@@ -7,13 +7,18 @@ authors:
 - admin
 date: "2021-11-14T00:00:00Z"
 doi: ""
+links:
+- name: URL
+  url: "https://www.sciencedirect.com/science/article/abs/pii/S0305750X21003533?via%3Dihub"
+- name: Replication File
+  url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/Q9VOQI"
 featured: false
 image:
   caption: "some description"
   focal_point: ""
   preview_only: false
 projects: []
-publication: 'Forthcoming in *World Development*'
+publication: '*World Development*'
 publication_short:
 publication_types:
 - "2"

@@ -26,7 +26,7 @@ slides:
 summary: The government system of China has been well known for its ability to mobilize its local leaders through career incentives. Does this system also encourage local policy innovation? This paper tests the relation between career advancement and local policy innovation with a self-compiled dataset on local innovation and local leaders’ career paths in 16 deputy-provincial level municipalities. We find a strong positive relationship between reported local policy innovation concerning economic issues and local leaders’ career advancement from 1980 to 2008, while the relationship between the number of innovations in other policy areas and promotion is insignificant. This finding deepens our understanding of both the promotion system for Chinese local leaders and motivations for local policy innovation.
 tags:
 
-title: 'Patterns of “experimentation point”: Evidence from People’s Daily’s 1992--2003 Reports on policy experimentation point'
+title: 'Patterns of “Experimentation Point”: Evidence from People’s Daily’s 1992--2003 Reports on Policy Experimentation Point'
 url_code: ""
 url_dataset: ""
 url_pdf: ""

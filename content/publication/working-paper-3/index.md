@@ -14,7 +14,7 @@ image:
   preview_only: false
 
 projects: []
-publication: 
+publication: Job Market Paper
 publication_short:
 publication_types:
 - "3"

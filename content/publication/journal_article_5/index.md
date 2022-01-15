@@ -8,6 +8,13 @@ authors:
 - Margaret Pearson
 date: "2021-11-15T00:00:00Z"
 doi: ""
+links:
+- name: URL
+  url: "https://www.journals.uchicago.edu/doi/10.1086/717849"
+- name: Replication File
+  url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/MSNWPY"
+- name: 'Media: Monkey Cage'
+  url: "https://www.washingtonpost.com/politics/2021/12/09/africas-leaders-often-welcome-chinese-private-investment-how-do-african-citizens-feel/"
 featured: false
 image:
   caption: ''
