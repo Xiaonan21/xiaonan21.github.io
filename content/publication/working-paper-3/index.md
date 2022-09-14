@@ -1,11 +1,11 @@
 ---
-abstract: How does increased monitoring change bureaucratic appointments? I argue that when politicians lack sufficient and credible information on the character of bureaucrats, increased monitoring forces politicians to prioritize minimizing risks over bureaucratic expertise. Using an original dataset of 1465 China’s provincial agency leaders, I find that after an unexpected anticorruption campaign, the proportion of agency leaders with inside-agency work experience drops significantly in agencies with higher risk of corruption, but not in agencies with lower risk of corruption. I interpret the results as provincial leaders’ cautiousness to reduce the higher risk of corruption associated with agency insiders, thus avoid being implicated by their appointees’ mistakes. I further demonstrate that appointing outsiders was not driven by seeking candidates with better abilities or higher political standards — two intended objectives of tightening up bureaucratic appointments. My findings qualify the effectiveness of relying on top-down accountability to regulate bureaucratic appointments in authoritarian regimes.
+abstract: How do authoritarian anti-corruption campaigns affect the selection of bureaucrats? On the one hand, increased monitoring capacity after the campaign should ease politicians’ concerns about their appointees’ misbehavior when making appointment decisions. On the other hand, politicians could be frightened and thus make risk-averse decisions by prioritizing reducing corruption risks in appointments. Using an original dataset of China’s provincial agency leaders, I find that after Xi Jinping’s anti-corruption campaign, provincial leaders appointed fewer agency leaders with inside-agency work experience in high-profile agencies with high corruption risks. I interpret the results as provincial leaders' cautiousness to reduce higher corruption risks of agency insiders, thus avoiding being implicated by their appointees’ misbehavior. I further demonstrate that appointing outsiders cannot be explained by patron-client relationships or seeking candidates with higher abilities and political skills. My findings reveal the nuanced effects of using authoritarian approaches to improve the quality of government.
 
 
 authors:
 - admin
 
-date: "2021-07-01T00:00:00Z"
+date: "2022-09-01T00:00:00Z"
 doi: ""
 featured: true
 image:
@@ -14,15 +14,15 @@ image:
   preview_only: false
 
 projects: []
-publication: Job Market Paper
+publication:
 publication_short:
 publication_types:
 - "3"
-publishDate: "2021-07-01T00:00:00Z"
+publishDate: "2022-09-01T00:00:00Z"
 
 summary:
 
-title: 'Play It Safe and Appoint Outsiders: The Unintended Consequence of Anti-corruption Campaigns on Bureaucratic Appointment'
+title: 'Play It Safe and Appoint Outsiders: Authoritarian Anti-Corruption Campaigns and Bureaucratic Appointments'
 subtitle: 
 
 url_code: ''
