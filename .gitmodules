@@ -1,4 +1,0 @@
-[submodule "public"]
-	path = public
-	url = https://github.com/xiaonan21/xiaonan21.github.io.git
-	branch = deploy
