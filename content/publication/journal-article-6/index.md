@@ -4,19 +4,22 @@ abstract: Political leaders in China regularly launch anti-corruption campaigns 
 authors:
 - admin
 - Yan Wang
-date: "2021-11-10T00:00:00Z"
+date: "2022-09-10T00:00:00Z"
 doi: ""
+links:
+- name: URL
+  url: "https://link.springer.com/article/10.1007/s11366-021-09778-9"
 featured: 
 image:
   caption: 
   focal_point: ""
   preview_only: false
 projects: []
-publication: "Accepted at *Journal of Chinese Political Science*"
+publication: "*Journal of Chinese Political Science*"
 publication_short:
 publication_types:
 - "2"
-publishDate: "2021-01-01T00:00:00Z"
+publishDate: "2022-01-01T00:00:00Z"
 
 summary:
 
