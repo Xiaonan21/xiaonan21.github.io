@@ -14,7 +14,7 @@ copyright: '' # Footer text, e.g. '© {year} Me'
 
 defaultContentLanguage: en
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: true
+defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
@@ -30,7 +30,7 @@ module:
 ## ADVANCED
 ############################
 
-enableGitInfo: true
+enableGitInfo: false
 summaryLength: 30
 paginate: 10
 enableEmoji: true
